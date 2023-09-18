@@ -1,7 +1,7 @@
 # ENS-SCORE-GUI
 
 
-**ENS-SCORE-GUI** is A graphical user interface (GUI) and web application to facilitate the usage of [ENS-Score](https://github.com/miladrayka/ENS_Score).
+**ENS-SCORE-GUI** is a graphical user interface (GUI) and web application to facilitate the usage of [ENS-Score](https://github.com/miladrayka/ENS_Score).
 
 ![](https://github.com/miladrayka/ENS_SCORE_GUI/blob/main/software_logo.png)
 
@@ -35,4 +35,4 @@ HydraMap feature generation codes are provided at https://github.com/xiaoyangqu/
 
 Python codes of Shulga et al. paper are gathered at http://molmodel.com/hg/sf_fragment_correlation.
 
-Streamlit is available at https://streamlit.io/
+Streamlit is available at https://streamlit.io/. 
