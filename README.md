@@ -9,7 +9,7 @@
 Milad Rayka, milad.rayka@yahoo.com
 
 # Citation
-Should be added.
+An ensemble-based approach to estimate confidence of predicted protein–ligand binding affinity values [link](https://onlinelibrary.wiley.com/doi/10.1002/minf.202300292).
 
 # Installation.
 The needed information for installation is provided at [ENS-Score](https://github.com/miladrayka/ENS_Score).
